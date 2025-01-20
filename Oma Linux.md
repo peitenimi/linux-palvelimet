@@ -14,6 +14,6 @@ Asennus onnistui ilman ongelmia ja pääsin kirjautumaan sisään. Kokeilin taas
 
 ## Matrix terminaalissa
 
-Asensin vielä huvin vuoksi tuollaisen komennolla "sudo apt install cmatrix" ja ajoin kirjoittamalla cmatrix. 
+Asensin vielä huvin vuoksi tuollaisen komennolla "sudo apt install cmatrix" ja suoritin kirjoittamalla cmatrix. 
 
 ![Matrix terminaalissa](linuxmatrix.PNG)
