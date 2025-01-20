@@ -2,7 +2,7 @@
 
 ## Työympäristö
 
-Itse koottu PC, jossa käyttöjärjestelmänä Windows 10.
+Itse koottu PC jossa käyttöjärjestelmänä Windows 10.
 - Suoritin 12th Gen Intel Core i3-12100F @ 3300 Mhz
 - RAM 16 Gb
 - SSD Kingston KC3000 1024 Gt
