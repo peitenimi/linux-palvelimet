@@ -1,5 +1,13 @@
 # Oma Linux
 
+## Työympäristö
+
+Itse koottu PC, jossa käyttöjärjestelmänä Windows 10.
+- Suoritin 12th Gen Intel Core i3-12100F @ 3300 Mhz
+- RAM 16 Gb
+- SSD Kingston KC3000 1024 Gt
+- Näytönohjain NVIDIA GeForce RTX 3060
+
 ## Virtuaalikone
 
 Aloitin ensimmäisenä lataamalla VirtualBoxin koneelleni. Tämän jälkeen kävin lataamassa uusimman Debian version. Loin Expert modessa uuden virtuaalikoneen nimellä DebianInaHar. Valitsin aiemmin lataamani ISO-kuvan ja valitsin vielä Skip Unattended Installation. Tässä kohtaa se onnistui, koska aikaisemmalla yrityksellä en jostain syystä pystynyt valitsemaan sitä ollenkaan. Ihan ensimmäisellä yrityksellä en tajunnut edes vaihtaa Expert modeen, jolloin jostain syystä en pystynyt esimerkiksi muuttamaan versiota 64-bittiseksi, vaan se hyppäsi automaattisesti 32-bittiseksi. Taistelin tämän kanssa jonkun aikaa, kunnes sain ongelman ratkottua. Tosin en tiedä miten korjasin tuon, että sain skipattua Unattended Installationin, koska tein sen vahingossa. Luulen, että oli vain jotain ekalla kerralla valittu väärin. Ei siis ollut mitään oikeaa ongelmaa, vain omaa tarkkaavaisuuden puutetta.
