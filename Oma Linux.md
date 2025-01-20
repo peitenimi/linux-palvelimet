@@ -13,4 +13,7 @@ Avasin Debian installerin ja aloitin säätämällä asetukset oikeiksi ennen as
 Asennus onnistui ilman ongelmia ja pääsin kirjautumaan sisään. Kokeilin taas ensin, että kaikki toimii. Tämän jälkeen avasin terminaalin ja syötin "sudo apt-get update" komennon, joka päivittää kaikkiin sovelluksiin uusimman version. Tuli vielä varmistus, että päivitetäänkö kaikki johon laitoin komennon "sudo apt-get -y dist-upgrade" eli vastasin kyllä. Päivitysten jälkeen asensin vielä palomuurin komennolla "apt-get -y install ufw" ja laitoin sen vielä päälle. Käynnistin vielä uudelleen lopuksi.
 
 ## Matrix terminaalissa
+
+En ottanut muita kuvia tehtävän aikana, niin asensin tuollaisen komennolla "sudo apt install cmatrix" ja ajoin kirjoittamalla vaan cmatrix.
+
 ![Matrix terminaalissa](linuxmatrix.PNG)
