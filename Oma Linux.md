@@ -10,7 +10,7 @@ Jatkoin eteenpäin asettamalla muistiksi 4000 mb ja prosessorien määrän jäti
 
 Avasin Debian installerin ja aloitin säätämällä asetukset oikeiksi ennen asennuksen aloittamista. Kieli englanniksi, alue Suomi ja näppäimistön kieleksi suomi. Seuraavassa kohdassa valitsin, että levy tyhjennetään kokonaan. Salausta en ottanut käyttöön. Boot loaderin sijainniksi jätin siinä valmiina olleen eli MBR. Tämän jälkeen laitoin koko nimeni ja keksin käyttäjänimen. Koneen nimeksi tuli mehukatti. Asetin vielä salasanan ja sitten pääsin aloittamaan asennuksen.
 
-Asennus onnistui ilman ongelmia ja pääsin kirjautumaan sisään. Kokeilin taas ensin, että kaikki toimii. Tämän jälkeen avasin terminaalin ja syötin "sudo apt-get update" komennon, joka päivittää kaikkiin sovelluksiin uusimman version. Tuli vielä varmistus, että päivitetäänkö kaikki johon laitoin komennon "sudo apt-get -y dist-upgrade" eli vastasin kyllä. Päivitysten jälkeen asensin vielä palomuurin komennolla "apt-get -y install ufw" ja laitoin sen vielä päälle. Käynnistin vielä uudelleen lopuksi.
+Asennus onnistui ilman ongelmia ja pääsin kirjautumaan sisään. Kokeilin taas ensin, että kaikki toimii. Tämän jälkeen avasin terminaalin ja syötin "sudo apt-get update" komennon, joka päivittää kaikkiin sovelluksiin uusimman version. Tuli vielä varmistus, että päivitetäänkö kaikki johon laitoin komennon "sudo apt-get -y dist-upgrade" eli vastasin kyllä. Päivitysten jälkeen asensin vielä palomuurin komennolla "apt-get -y install ufw" ja laitoin sen vielä päälle. Käynnistin vielä uudelleen lopuksi. Kokeilin vielä availla sovelluksia ja muutenkin tutkin kaikkea, koska tämä on ensimmäinen kerta kun käytän Linuxia. 
 
 ## Matrix terminaalissa
 
