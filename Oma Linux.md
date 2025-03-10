@@ -28,4 +28,4 @@ Asensin vielä huvin vuoksi tuollaisen komennolla "sudo apt install cmatrix" ja 
 
 ## Lähteet
 
-- h1 ohjeet ja vinkit https://terokarvinen.com/linux-palvelimet/#vanhoja-kurssitoteutuksia
+- h1 ohjeet ja vinkit https://terokarvinen.com/linux-palvelimet/#h1-oma-linux
